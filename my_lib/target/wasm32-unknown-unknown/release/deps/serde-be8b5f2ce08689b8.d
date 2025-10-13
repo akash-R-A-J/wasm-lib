@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\deps\libserde-be8b5f2ce08689b8.rmeta: C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\build\serde-74413735456be1b1\out/private.rs
+
+C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\deps\libserde-be8b5f2ce08689b8.rlib: C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\build\serde-74413735456be1b1\out/private.rs
+
+C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\deps\serde-be8b5f2ce08689b8.d: C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\build\serde-74413735456be1b1\out/private.rs
+
+C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs:
+C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs:
+C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs:
+C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs:
+C:\Users\KIIT\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs:
+C:\Users\KIIT\Desktop\rust\my_lib\target\wasm32-unknown-unknown\release\build\serde-74413735456be1b1\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\KIIT\\Desktop\\rust\\my_lib\\target\\wasm32-unknown-unknown\\release\\build\\serde-74413735456be1b1\\out
